@@ -1,6 +1,7 @@
 {
   "sites": {
     "dailyoffers-top.blogspot.com": { "active": true, "expiry": "2028-12-31" },
-    "client2.blogspot.com": { "active": true, "expiry": "2025-07-01" }
+    "www.dailyoffers-top.blogspot.com": { "active": true, "expiry": "2028-12-31" }
+
   }
 }
